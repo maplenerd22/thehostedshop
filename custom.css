@@ -2,3 +2,7 @@
 .gdoc-nav__list li {
     margin: 0.75rem 0;
 }
+
+.breadcrumb li {
+    margin-left: 0.3rem;
+}
